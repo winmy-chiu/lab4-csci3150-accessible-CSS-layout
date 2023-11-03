@@ -150,9 +150,9 @@ nav ul li:active {
 
 header {grid-area: header1; background:rgb(25, 32, 53);}
 nav {grid-area: nav1; background:rgb(188, 182, 244);}
-main {grid-area: main1; background: rgb(185, 183, 193); max-height: 100%;}
-#aside1 {grid-area: aside1; background: rgb(191, 180, 205);}
-#aside2 {grid-area: aside2; background: rgb(191, 180, 205);}
+main {grid-area: main1; background: rgb(202, 201, 206); max-height: 100%;}
+#aside1 {grid-area: aside1; background: rgb(223, 218, 231);}
+#aside2 {grid-area: aside2; background: rgb(223, 218, 231);}
 footer {grid-area: footer1; background: rgb(25, 32, 53);}
 
 
